@@ -149,7 +149,7 @@ $$
 \end{align*}
 $$
 
-Tedaj bomo tipom $A$ priredili množico (čeprav bi zgodbo lahko ponovili tudi za domene) $\itp{A}$, le da moramo upoštevati prisotnost učinke:
+Tedaj bomo tipom $A$ priredili množico (čeprav bi zgodbo lahko ponovili tudi za domene) $\itp{A}$, le da moramo upoštevati prisotnost učinkov:
 
 $$
     \begin{align*}
